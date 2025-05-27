@@ -121,7 +121,7 @@
         <mxCell id="kQNaUVafDqEDPBotzU8o-39" value="待调拨货品管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="918" y="1474" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kQNaUVafDqEDPBotzU8o-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="kQNaUVafDqEDPBotzU8o-2" target="kQNaUVafDqEDPBotzU8o-4">
+        <mxCell id="kQNaUVafDqEDPBotzU8o-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kQNaUVafDqEDPBotzU8o-2" target="kQNaUVafDqEDPBotzU8o-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1777" y="94" />
