@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PyNssAFpKcdPhjS8W8Ea">
-    <mxGraphModel dx="1235" dy="-1288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="-1251" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,150 +317,150 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-1" value="四、设备调整" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-1" value="四、设备调整" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="-40" y="4896" width="228" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-2" value="修改配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-2" value="修改配置" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="251" y="4719" width="140" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-3" value="系统/软件激活" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-3" value="系统/软件激活" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="263" y="5115" width="143" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="513" y="4642" width="284" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="510" y="4793" width="281" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-7" value="统筹权限分配，匹配N现场安装配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-7" value="统筹权限分配，匹配N现场安装配置" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="524" y="5035" width="296" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="规范发放权限，保障终端上线" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="规范发放权限，保障终端上线" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="527" y="5172" width="299" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RcHNK5YRCVxO7XnyVLS4-2">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RcHNK5YRCVxO7XnyVLS4-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="188" y="4939" as="sourcePoint" />
             <mxPoint x="247" y="4746" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-1" target="RcHNK5YRCVxO7XnyVLS4-3">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-1" target="RcHNK5YRCVxO7XnyVLS4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-2" target="RcHNK5YRCVxO7XnyVLS4-5">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-2" target="RcHNK5YRCVxO7XnyVLS4-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-3" target="RcHNK5YRCVxO7XnyVLS4-7">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-3" target="RcHNK5YRCVxO7XnyVLS4-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="462" y="5092" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-3" target="RcHNK5YRCVxO7XnyVLS4-8">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1.01;entryX=0;entryY=0.49;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-3" target="RcHNK5YRCVxO7XnyVLS4-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="462" y="5198" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.984;exitY=0.95;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-2" target="RcHNK5YRCVxO7XnyVLS4-6">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.984;exitY=0.95;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-2" target="RcHNK5YRCVxO7XnyVLS4-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="387" y="4729" as="sourcePoint" />
             <mxPoint x="521" y="4682" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-22" value="五、仓库管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-22" value="五、仓库管理" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="-53" y="5694" width="228" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-23" value="管家婆入库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-23" value="管家婆入库" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="265" y="5478" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-24" value="调拨单出库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-24" value="调拨单出库" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="273" y="5711" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-25" value="管家婆盘库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-25" value="管家婆盘库" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="225" y="5962" width="222" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-26" value="统筹出货协调，匹配现场需求，准时出库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-26" value="统筹出货协调，匹配现场需求，准时出库" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="500" y="5411" width="283" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-27" value="到货清点入库，分类码放，系统入库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-27" value="到货清点入库，分类码放，系统入库" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="503" y="5528" width="281" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-28" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-28" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="497" y="5644" width="296" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-29" value="签字确认调拨，系统上传归档，出库完成。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-29" value="签字确认调拨，系统上传归档，出库完成。" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="503" y="5762" width="299" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-30" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-30" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="500" y="5882" width="301" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-31" value="清点核对库存，签字归档，完成盘库流程" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-31" value="清点核对库存，签字归档，完成盘库流程" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="505" y="6011" width="296" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-22" target="RcHNK5YRCVxO7XnyVLS4-23">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-22" target="RcHNK5YRCVxO7XnyVLS4-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="5503" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-22" target="RcHNK5YRCVxO7XnyVLS4-24">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-22" target="RcHNK5YRCVxO7XnyVLS4-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-22" target="RcHNK5YRCVxO7XnyVLS4-25">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-22" target="RcHNK5YRCVxO7XnyVLS4-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="5987" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-23" target="RcHNK5YRCVxO7XnyVLS4-26">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-23" target="RcHNK5YRCVxO7XnyVLS4-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="5444" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-23" target="RcHNK5YRCVxO7XnyVLS4-27">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0;entryY=0.49;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-23" target="RcHNK5YRCVxO7XnyVLS4-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="5561" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-24" target="RcHNK5YRCVxO7XnyVLS4-28">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-24" target="RcHNK5YRCVxO7XnyVLS4-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="5677" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-24" target="RcHNK5YRCVxO7XnyVLS4-29">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1.01;entryX=0;entryY=0.49;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-24" target="RcHNK5YRCVxO7XnyVLS4-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="5794" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-25" target="RcHNK5YRCVxO7XnyVLS4-30">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0;entryY=0.51;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-25" target="RcHNK5YRCVxO7XnyVLS4-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="5919" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-25" target="RcHNK5YRCVxO7XnyVLS4-31">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0;entryY=0.5;rounded=0;" parent="1" source="RcHNK5YRCVxO7XnyVLS4-25" target="RcHNK5YRCVxO7XnyVLS4-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="472" y="6054" />
