@@ -336,7 +336,7 @@
           <mxGeometry x="609" y="5047" width="296" height="79" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="统一收录验收单, 分类归档, 形成验收资料链" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="615" y="5165" width="299" height="83" as="geometry" />
+          <mxGeometry x="613" y="5176" width="299" height="83" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RcHNK5YRCVxO7XnyVLS4-2">
           <mxGeometry relative="1" as="geometry">
