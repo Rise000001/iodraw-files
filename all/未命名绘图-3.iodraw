@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PyNssAFpKcdPhjS8W8Ea">
-    <mxGraphModel dx="1513" dy="-1051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="-1568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,7 +330,7 @@
           <mxGeometry x="602" y="4635" width="284" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="602" y="4748" width="281" height="75" as="geometry" />
+          <mxGeometry x="602" y="4751" width="281" height="75" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-7" value="指导服务单位完成验收流程, 签署验收单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="5039" width="296" height="79" as="geometry" />
