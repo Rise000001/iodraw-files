@@ -326,7 +326,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-3" value="系统/软件激活" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="263" y="5115" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="按需调配，规范操作，可溯可验。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置。&#xa;" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="602" y="4635" width="284" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="仓库完成出库, 确保数据一致, 流程可追溯" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
