@@ -401,7 +401,7 @@
           <mxGeometry x="503" y="5762" width="299" height="83" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-30" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="497" y="5877" width="301" height="83" as="geometry" />
+          <mxGeometry x="500" y="5882" width="301" height="83" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-31" value="清点核对库存，签字归档，完成盘库流程" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="505" y="6011" width="296" height="87" as="geometry" />
