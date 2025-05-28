@@ -248,13 +248,13 @@
           <mxGeometry x="505" y="3990" width="296" height="79" as="geometry" />
         </mxCell>
         <mxCell id="q8ZZFppvBFtYmp38UERl-140" value="统一收录验收单, 分类归档, 形成验收资料链" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="511" y="4108" width="266" height="76" as="geometry" />
+          <mxGeometry x="511" y="4108" width="299" height="83" as="geometry" />
         </mxCell>
         <mxCell id="q8ZZFppvBFtYmp38UERl-141" value="收集日常工作中出现的问题(物流, 设备异常, 流程, 客户需求)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="505" y="4223" width="335" height="95" as="geometry" />
         </mxCell>
         <mxCell id="q8ZZFppvBFtYmp38UERl-142" value="协同相关方解决问题, 保障执行顺畅, 提升交付效率" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="529" y="4358" width="180" height="84" as="geometry" />
+          <mxGeometry x="529" y="4358" width="319" height="93" as="geometry" />
         </mxCell>
         <mxCell id="q8ZZFppvBFtYmp38UERl-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-133" target="q8ZZFppvBFtYmp38UERl-134">
           <mxGeometry relative="1" as="geometry">
