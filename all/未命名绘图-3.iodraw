@@ -335,7 +335,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-7" value="指导服务单位完成验收流程, 签署验收单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="5039" width="296" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="统一收录验收单, 分类归档, 形成验收资料链" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="统筹权限分配，匹配现场执行。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="613" y="5176" width="299" height="83" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RcHNK5YRCVxO7XnyVLS4-2">
