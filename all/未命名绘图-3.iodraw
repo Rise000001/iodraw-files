@@ -321,13 +321,18 @@
           <mxGeometry x="-40" y="4896" width="228" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-2" value="修改配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="251" y="4719" width="142" height="49" as="geometry" />
+          <mxGeometry x="251" y="4719" width="140" height="69" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-3" value="系统/软件激活" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="263" y="5115" width="143" height="64" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="511" y="4629" width="284" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486.9047619047619" y="4801.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="520" y="4764" width="281" height="75" as="geometry" />
