@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PyNssAFpKcdPhjS8W8Ea">
-    <mxGraphModel dx="1121" dy="-1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="-1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,6 +223,97 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="461" y="3603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-133" value="三、服务单位管理-N(N-设备出库管理, N-验收单管理, 协调处理各类日常运营问题)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="71" y="3941" width="228" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-134" value="N-设备出库管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="389" y="3725" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-135" value="N-验收单管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="397" y="3958" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-136" value="协调处理各类日常运营问题" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="349" y="4209" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-137" value="负责与服务单位沟通设备配送需求, 形成出库计划" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="624" y="3658" width="222" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-138" value="配合仓库完成出库, 确保数据一致, 流程可追溯" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="627" y="3775" width="217" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-139" value="指导服务单位完成验收流程, 签署验收单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="621" y="3891" width="228" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-140" value="统一收录验收单, 分类归档, 形成验收资料链" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="624" y="4008" width="223" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-141" value="收集日常工作中出现的问题(物流, 设备异常, 流程, 客户需求)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="621" y="4124" width="228" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-142" value="协同相关方解决问题, 保障执行顺畅, 提升交付效率" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="645" y="4259" width="180" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-133" target="q8ZZFppvBFtYmp38UERl-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="324" y="3750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-133" target="q8ZZFppvBFtYmp38UERl-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-133" target="q8ZZFppvBFtYmp38UERl-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="324" y="4234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-134" target="q8ZZFppvBFtYmp38UERl-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="3691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-134" target="q8ZZFppvBFtYmp38UERl-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="3808" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-135" target="q8ZZFppvBFtYmp38UERl-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="3924" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-135" target="q8ZZFppvBFtYmp38UERl-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="4041" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-136" target="q8ZZFppvBFtYmp38UERl-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="4166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8ZZFppvBFtYmp38UERl-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q8ZZFppvBFtYmp38UERl-136" target="q8ZZFppvBFtYmp38UERl-142">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="4301" />
             </Array>
           </mxGeometry>
         </mxCell>
