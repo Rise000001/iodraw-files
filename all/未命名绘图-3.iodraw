@@ -327,16 +327,16 @@
           <mxGeometry x="263" y="5115" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="597" y="4633" width="284" height="86" as="geometry" />
+          <mxGeometry x="492" y="4630" width="284" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="606" y="4768" width="281" height="75" as="geometry" />
+          <mxGeometry x="501" y="4765" width="281" height="75" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-7" value="统筹权限分配，匹配N现场安装配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="610" y="5039" width="296" height="79" as="geometry" />
+          <mxGeometry x="505" y="5036" width="296" height="79" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="规范发放权限，保障终端上线" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="613" y="5176" width="299" height="83" as="geometry" />
+          <mxGeometry x="508" y="5173" width="299" height="83" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RcHNK5YRCVxO7XnyVLS4-2">
           <mxGeometry relative="1" as="geometry">
