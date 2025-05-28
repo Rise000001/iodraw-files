@@ -1,34 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PyNssAFpKcdPhjS8W8Ea">
-    <mxGraphModel dx="1524" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1693" dy="235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q8ZZFppvBFtYmp38UERl-1" value="仓库管理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="1787" height="375" as="geometry" />
-        </mxCell>
-        <mxCell id="q8ZZFppvBFtYmp38UERl-10" value="管家婆盘库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="q8ZZFppvBFtYmp38UERl-1">
-          <mxGeometry x="1471" y="46" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="q8ZZFppvBFtYmp38UERl-12" value="清点核对" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="q8ZZFppvBFtYmp38UERl-1">
-          <mxGeometry x="1485" y="201" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="q8ZZFppvBFtYmp38UERl-13" value="签字归档" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="q8ZZFppvBFtYmp38UERl-1">
-          <mxGeometry x="1647" y="201" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="q8ZZFppvBFtYmp38UERl-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="q8ZZFppvBFtYmp38UERl-1" source="q8ZZFppvBFtYmp38UERl-10" target="q8ZZFppvBFtYmp38UERl-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1703" y="132" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q8ZZFppvBFtYmp38UERl-50" value="数据整理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="152" y="1231" width="1523" height="375" as="geometry" />
-        </mxCell>
-        <mxCell id="q8ZZFppvBFtYmp38UERl-62" value="分类归集" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="q8ZZFppvBFtYmp38UERl-50">
-          <mxGeometry x="1373" y="201" width="113" height="113" as="geometry" />
-        </mxCell>
         <mxCell id="q8ZZFppvBFtYmp38UERl-87" value="外呼工作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="2316" width="124" height="49" as="geometry" />
         </mxCell>
