@@ -327,7 +327,7 @@
           <mxGeometry x="263" y="5115" width="143" height="64" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="511" y="4629" width="284" height="86" as="geometry" />
+          <mxGeometry x="508.5" y="4641" width="284" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="510" y="4793" width="281" height="75" as="geometry" />
