@@ -376,7 +376,7 @@
             <mxPoint x="521" y="4682" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-22" value="三、服务单位管理-N" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-22" value="五、仓库管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-53" y="5694" width="228" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-23" value="N-设备出库管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
