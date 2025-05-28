@@ -394,7 +394,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-27" value="到货清点入库，分类码放，系统入库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="503" y="5528" width="281" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-28" value="确认出货需求，备货扫码，生成调拨单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-28" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="497" y="5644" width="296" height="79" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-29" value="签字确认调拨，系统上传归档，出库完成。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
