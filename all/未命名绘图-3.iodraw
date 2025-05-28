@@ -385,7 +385,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-24" value="调拨单出库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="273" y="5711" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-25" value="协调处理各类日常运营问题" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-25" value="管家婆盘库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="225" y="5962" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-26" value="负责与服务单位沟通设备配送需求, 形成出库计划" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
