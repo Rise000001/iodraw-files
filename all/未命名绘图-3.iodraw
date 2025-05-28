@@ -329,7 +329,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="根据实际需求与库存，优化设备配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="602" y="4635" width="284" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="仓库完成出库, 确保数据一致, 流程可追溯" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-6" value="规范调整，记录可溯，保障交付。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="602" y="4748" width="281" height="75" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-7" value="指导服务单位完成验收流程, 签署验收单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
