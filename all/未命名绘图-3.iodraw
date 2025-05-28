@@ -338,13 +338,13 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-8" value="统一收录验收单, 分类归档, 形成验收资料链" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="493" y="5166" width="299" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-11" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="278" y="4814" />
             </Array>
             <mxPoint x="188" y="4939" as="sourcePoint" />
-            <mxPoint x="363" y="4726.5" as="targetPoint" />
+            <mxPoint x="291" y="4737" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="RcHNK5YRCVxO7XnyVLS4-1" target="RcHNK5YRCVxO7XnyVLS4-3">
