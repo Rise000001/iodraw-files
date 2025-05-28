@@ -400,7 +400,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-29" value="签字确认调拨，系统上传归档，出库完成。" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="503" y="5762" width="299" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-30" value="收集日常工作中出现的问题(物流, 设备异常, 流程, 客户需求)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-30" value="每月盘库打印清单，核对库存型号数量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="497" y="5877" width="335" height="95" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-31" value="协同相关方解决问题, 保障执行顺畅, 提升交付效率" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
