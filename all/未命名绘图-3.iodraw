@@ -391,7 +391,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-26" value="统筹出货协调，匹配现场需求，准时出库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="500" y="5411" width="283" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-27" value="仓库完成出库, 确保数据一致, 流程可追溯" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-27" value="到货清点入库，分类码放，系统入库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="503" y="5528" width="281" height="75" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-28" value="指导服务单位完成验收流程, 签署验收单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
