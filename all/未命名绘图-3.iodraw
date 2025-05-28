@@ -323,7 +323,7 @@
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-2" value="修改配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="251" y="4719" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RcHNK5YRCVxO7XnyVLS4-3" value="N-验收单管理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RcHNK5YRCVxO7XnyVLS4-3" value="系统/软件激活" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="263" y="5115" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RcHNK5YRCVxO7XnyVLS4-5" value="负责与服务单位沟通设备配送需求, 形成出库计划" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
