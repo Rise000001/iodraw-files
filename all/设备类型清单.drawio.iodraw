@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="设备类型清单" id="0">
+    <mxGraphModel dx="984" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="100" value="设备类型" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="101" value="  " style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="180" y="40" width="40" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="102" value="" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="230" y="40" width="40" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="103" value="" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="40" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="110" value="硬件" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="88" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="120" value="→" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="120" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="121" value="台式计算机" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="130" value="｜ → H3C" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="152" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="131" value="｜ → 浪潮" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="184" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="132" value="｜ → 浪潮" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="216" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="133" value="｜ → MAXHUB" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="248" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="134" value="｜ → 华为擎" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="135" value="｜ → 天熠苏" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="312" width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="140" value="→" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="344" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="141" value="中科可控" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="344" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="150" value="→" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="392" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="151" value="便携式笔记本" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="392" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="160" value="｜ → 浪潮" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="424" width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="161" value="｜ → 浪潮" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="456" width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="162" value="｜ → 华为擎云" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="488" width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="163" value="｜ → 超锐软通华方超锐" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="520" width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="164" value="｜ → 天熠" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="552" width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="170" value="→" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="30" y="584" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="171" value="中科" style="text;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="584" width="180" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
