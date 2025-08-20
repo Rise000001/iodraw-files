@@ -1,0 +1,298 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="设备问题清单思维导图" id="0">
+    <mxGraphModel dx="984" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="设备类型" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="20" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="硬件" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="2" vertex="1" connectable="0">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="台式计算机" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="4" vertex="1" connectable="0">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="H3CDesk" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="浪潮CE520L2" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="浪潮CE530H" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="MAXHUB" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="华为擎云W515x-D009" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="天熠苏LM2A01" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="中科可控（Suma）天阔T40" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="5" vertex="1" connectable="0">
+          <mxGeometry width="200" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="便携式笔记本" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="4" vertex="1" connectable="0">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="浪潮CP300H" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="13" vertex="1" connectable="0">
+          <mxGeometry width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="浪潮CP300L3" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="13" vertex="1" connectable="0">
+          <mxGeometry width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="华为擎云L420x-A106" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="13" vertex="1" connectable="0">
+          <mxGeometry width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="超锐软通华方超锐T40-W9006H" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="13" vertex="1" connectable="0">
+          <mxGeometry width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="天熠苏LM2510" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="13" vertex="1" connectable="0">
+          <mxGeometry width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="中科可控（Suma）天阔N40" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="13" vertex="1" connectable="0">
+          <mxGeometry width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="软件" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="2" vertex="1" connectable="0">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="流式软件" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="20" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="WPS Office2023 for Linux专业版办公软件V12.8" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="21" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="版式软件" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="20" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="数科OFD版式软件V3.0" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="23" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="福昕OFD版式办公套件软件（Linux版）V8.0" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="23" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="杀毒软件" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="20" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="360终端安全管理系统" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="26" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="天融信终端威胁防御系统V1" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="26" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="启明星辰天珣端点威胁检测防护与管理系统V7.0" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="26" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="安全保密套件(单机版)" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="20" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="北信源安全保密套件管理系统(单机版)V1.0" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="30" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="安全保密套件(网络版)" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="20" vertex="1" connectable="0">
+          <mxGeometry width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="中孚安全保密套件管理系统V1.0" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="32" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="中科聚鑫安全保密套件管理系统V1.0" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="32" vertex="1" connectable="0">
+          <mxGeometry width="300" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="问题清单" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="260" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="显示器问题" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="3" vertex="1" connectable="0">
+          <mxGeometry width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="黑屏 / 无信号" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="间歇黑屏 / 闪屏" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="条纹、雪花、彩块（花屏）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="颜色异常（偏色、发灰、过暗/过亮）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="分辨率不对 / 字体发糊" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="残影 / 拖影" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="坏点（亮/暗点）或固定竖线/横线" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="漏光 / 云斑 / 亮斑（背光不均）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="嗡嗡声 / 电流声（啸叫）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="内置喇叭 / HDMI 失效/DP 失效" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="临时残影 / 自动降亮度（ABL）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="待机后“唤不醒” / 自动切回其他输入源" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="其他显示器问题" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="35" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="台式机问题" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="3" vertex="1" connectable="0">
+          <mxGeometry width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="开机无反应 / 不亮机" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="循环重启 / 卡加载 / 卡 Logo" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="无法进入 BIOS / 键盘无响应" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="进不去桌面 / 卡转圈加载" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="找不到启动设备（Boot device not found）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="蓝屏 / 死机 / 自动重启" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="卡顿 / CPU 占用高 / 程序响应慢" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="过热 / 降频 / 风扇狂转" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="机箱温度高 / 风道差 / 灰尘堵塞" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="随机断电 / 突然关机" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="开机瞬间掉电 / 电源啸叫" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="自检报错 / 应用频繁崩溃" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="62" value="时间错乱 / 设置丢失" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="63" value="电源键/重启键失灵 / 指示灯不亮" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="64" value="前置 USB/音频口不工作" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="设备不识别 / 频繁掉线" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="66" value="连不上 / 掉线 / 配对失败（如装无线网卡）" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="键鼠失灵 / 打印机不可用 / 多屏异常" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="驱动冲突 / 更新失败 / 回滚失败" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="69" value="其他问题" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="49" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="笔记本问题" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="3" vertex="1" connectable="0">
+          <mxGeometry width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="按电源无反应 / 不亮机" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="循环重启 / 卡 Logo / 卡加载" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="进不去桌面 / 无限转圈 / 卡更新" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="蓝屏 / 死机 / 自动重启" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="75" value="过热 / 降频 / 风扇狂转 / 异响" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="76" value="铰链松动/爆壳 / 机身变形 / 掉漆" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="掉电快 / 充不满 / 百分比跳变 / 鼓包" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="78" value="不充电 / 识别功率低 / 过热 / 嗡鸣" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="79" value="接口松动 / 接触不良 / 火花异味" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="外接显示不稳定 / 仅一屏 / 闪黑" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="配对失败 / 音频卡顿 / 延迟高" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="82" value="亮度忽明忽暗 / 闪屏 / 坏点 / 漏光" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="83" value="误触 / 触控偏移 / 延迟高 / 不识别笔" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="84" value="按键失灵 / 键帽脱落 / 背光不亮" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="指针漂移 / 掌压误触 / 手势无效" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="86" value="黑屏 / 画面卡 / 隐私开关误触" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="87" value="无声 / 破音 / 只有一侧有声" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="88" value="自检报错 / 频繁崩溃 / 识别容量异常" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="89" value="SD/TF 不识别 / 传输中断" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="USB 频繁掉线 / HDMI/DP 无信号" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="91" value="BIOS/EC 升级失败 / 驱动冲突" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="液体泼溅 / 异味冒烟 / 触电感" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="93" value="其他问题" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="70" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="94" value="软件问题" style="shape=swimlane;collapsible=1;rounded=1;childLayout=stackLayout;horizontal=1;resizeParent=1;" parent="3" vertex="1" connectable="0">
+          <mxGeometry width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95" value="安装失败 / 激活报错" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="94" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="96" value="账号登录失败 / 授权异常" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="94" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="97" value="其他问题" style="rounded=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#C9D4E6;" parent="94" vertex="1" connectable="0">
+          <mxGeometry width="340" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
