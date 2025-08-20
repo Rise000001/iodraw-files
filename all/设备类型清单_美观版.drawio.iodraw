@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="设备类型清单-美观版" id="0">
+    <mxGraphModel dx="984" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5" value="" style="rounded=1;arcSize=5;fillColor=#F3F6FB;strokeColor=#E6EDF7;" parent="1" vertex="1">
+          <mxGeometry x="100" y="110" width="1000" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="设备类型清单（硬件）" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=8;fontSize=24;fontColor=#0B1220;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="30" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="硬件" style="rounded=1;arcSize=50;fillColor=#E9EEF7;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="120" y="85" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="100" value="" style="rounded=1;arcSize=8;fillColor=#F7FAFF;strokeColor=#D7E3F4;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="480" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="100h" value="台式计算机" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=8;fontSize=16;fontColor=#0F172A;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="134" y="138" width="452" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="200" value="" style="rounded=1;arcSize=8;fillColor=#F7FAFF;strokeColor=#D7E3F4;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="130" width="480" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="200h" value="便携式笔记本" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=8;fontSize=16;fontColor=#0F172A;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="654" y="138" width="452" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="300" value="H3C" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="190" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="301" value="浪潮" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="290" y="190" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="302" value="浪潮" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="440" y="190" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="303" value="MAXHUB" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="232" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="304" value="华为擎" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="290" y="232" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="305" value="天熠苏" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="440" y="232" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="306" value="中科可控" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="274" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="400" value="浪潮" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="660" y="190" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="401" value="浪潮" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="810" y="190" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="402" value="华为擎云" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="960" y="190" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="403" value="超锐软通华方超锐" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="660" y="232" width="112" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="404" value="天熠" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="810" y="232" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="405" value="中科" style="rounded=1;arcSize=50;fillColor=#FFFFFF;strokeColor=#C9D4E6;shadow=0;align=center;verticalAlign=middle;fontSize=13;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="960" y="232" width="100" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
